@@ -117,7 +117,7 @@ For more information on the importance of a professional README for your reposit
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://triple-portfolio.netlify.app/)
+- [Live Demo Link](https://simon-gideon-portfolio.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

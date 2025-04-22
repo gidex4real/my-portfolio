@@ -71,7 +71,7 @@ For more information on the importance of a professional README for your reposit
 
 > Describe your project in 1 or 2 sentences.
 
-**[My Frontend Portolio]** is a project that includes information about me, my project and my frontend journey.
+**[My Portolio]** is a project that includes information about me, my project and my software development journey.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -146,7 +146,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/TRIPLE-ADE/portfolio
+  git clone https://github.com/gidex4real/my-portfolio
 ```
 -
 

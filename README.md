@@ -1,4 +1,4 @@
-# porfolio
+# Simon-Gideon-Portfolio
 This is my personal portfolio website
 ## Hi there 👋
 

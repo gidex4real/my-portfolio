@@ -46,7 +46,7 @@ For more information on the importance of a professional README for your reposit
 <div align="center">
   
 
-  <h3><b>My portfolio</b></h3>
+  <h3><b>Simon-Gideon-Portfolio</b></h3>
 
 </div>
 
@@ -67,11 +67,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Frontend Portfolio] <a name="about-project"></a>
+# 📖 Simon-Gideon-Portfolio <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[My Portolio]** is a project that includes information about me, my project and my software development journey.
+**Simon-Gideon-Portolio** is a project that includes information about me, my project and my software development journey.
 
 ## 🛠 Built With <a name="built-with"></a>
 

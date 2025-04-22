@@ -142,14 +142,14 @@ export const Projects = [
     githubLinkText: "GitHub Repository for Africa Illustrious Awards",
     liveLinkText: "Live Website for Africa Illustrious Awards"
   },
-  {
-    image: mymedia,
-    stack: "PHP | WordPress | mySQL",
-    name: "MyMedia Africa",
-    live: "https://metro-carousel.netlify.app/",
-    githubLinkText: "GitHub Repository for MyMedia Africa",
-    liveLinkText: "Live Website for MyMedia Africa"
-  },
+  // {
+  //   image: mymedia,
+  //   stack: "PHP | WordPress | mySQL",
+  //   name: "MyMedia Africa",
+  //   live: "https://metro-carousel.netlify.app/",
+  //   githubLinkText: "GitHub Repository for MyMedia Africa",
+  //   liveLinkText: "Live Website for MyMedia Africa"
+  // },
 ];
 
 export const FootersLink = [

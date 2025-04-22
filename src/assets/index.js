@@ -31,7 +31,7 @@ import AIA from './AIA.png';
 import ijeuwa from './ijeuwa.png';
 import myarigo from './myarigo.png';
 import schooltrack from './schooltrack.png';
-import mymedia from './mymedia.png';
+// import mymedia from './mymedia.png';
 import mputu from './mputu.png';
 
 
@@ -62,6 +62,6 @@ export {
     ijeuwa,
     myarigo,
     schooltrack,
-    mymedia,
+    // mymedia,
     mputu
 }
